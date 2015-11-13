@@ -11,8 +11,6 @@ Project("{2159ABFA-13B7-05AB-1AE2-CBB51B5401CD}") = "RFYL", "Assembly-UnityScrip
 EndProject
 Project("{2159ABFA-13B7-05AB-1AE2-CBB51B5401CD}") = "RFYL", "Assembly-UnityScript.unityproj", "{3BCA4DB7-AD4A-8CF7-7942-47FAC154EA9F}"
 EndProject
-Project("{2159ABFA-13B7-05AB-1AE2-CBB51B5401CD}") = "RFYL", "Assembly-UnityScript-Editor.unityproj", "{7007D26B-B599-1051-1C6B-644DB11AAA17}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,15 +37,11 @@ Global
 		{3BCA4DB7-AD4A-8CF7-7942-47FAC154EA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BCA4DB7-AD4A-8CF7-7942-47FAC154EA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BCA4DB7-AD4A-8CF7-7942-47FAC154EA9F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7007D26B-B599-1051-1C6B-644DB11AAA17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7007D26B-B599-1051-1C6B-644DB11AAA17}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7007D26B-B599-1051-1C6B-644DB11AAA17}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7007D26B-B599-1051-1C6B-644DB11AAA17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+																											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
